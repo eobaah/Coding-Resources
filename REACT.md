@@ -12,7 +12,7 @@ Awesome resources/guides for learning about the different parts of the React/Rea
 - Alex Kotliarskyi's [React and JavaScript in 5 minutes](http://frantic.im/react-and-javascript-in-5-min)
 - The Jest [official docs](https://facebook.github.io/jest/)
 
-And here's a [YouTube playlist](https://www.youtube.com/playlist?list=PLjYmUByj4U1NqElgHqPbHCM-EyEFnslmY)
+And here's a [YouTube playlist](https://www.youtube.com/playlist?list=PLjYmUByj4U1NqElgHqPbHCM-EyEFnslmY) with more resources.
 
 # React Native
 
