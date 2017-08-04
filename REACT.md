@@ -16,6 +16,7 @@ And here's a [YouTube playlist](https://www.youtube.com/playlist?list=PLjYmUByj4
 
 # React Native
 
+- [Expo Snack](https://snack.expo.io/) - the absolute simplest way to start React Native mobile development. 
 - The React Native [official docs](https://facebook.github.io/react-native/docs/getting-started.html) and [tutorial](https://facebook.github.io/react-native/docs/tutorial.html)
 - jondot's [Awesome React Native](https://github.com/jondot/awesome-react-native/blob/master/README.md) guide on GitHub
 - The [Pepperoni App Kit](https://github.com/futurice/pepperoni-app-kit/blob/master/docs/ARCHITECTURE.md) - a relatively mature, complete boilerplate for React Native apps
