@@ -9,3 +9,5 @@ This is a collection of the most useful resources I've found for software engine
 # Resources
 
 - [Git & GitHub Resources](GIT.md)
+- [JavaScript Style](JS_STYLE.md)
+- [React & React Native Resources](REACT.md)
