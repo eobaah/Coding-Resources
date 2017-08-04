@@ -2,10 +2,7 @@
 
 # Style Guides
 
-*I happen to be font of the [airbnb style guide](https://github.com/airbnb/javascript).*
-
-JS style/quality guides:
-- https://github.com/airbnb/javascript
+- ⭐️ https://github.com/airbnb/javascript
 - https://github.com/rwaldron/idiomatic.js
 - https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Coding_Style
 - https://standardjs.com
