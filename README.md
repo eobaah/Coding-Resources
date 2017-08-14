@@ -1,6 +1,6 @@
 # Coding Resources
 
-This is a collection of the most useful resources I've found for software engineering. It is currently very much in *draft form*. Pull requests welcome!
+This is a collection of some of the most useful resources I've found for software engineering. It is currently very much in *draft form*. Pull requests welcome!
 
 -Justin
 
